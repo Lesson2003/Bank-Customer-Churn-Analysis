@@ -1,6 +1,6 @@
 # Bank Customer Churn Analysis Dashboard | Power BI
 
-![Bank Customer Churn Dashboard](bd73a1e0-8ab2-4b9c-aef9-aee8715de979.png)
+!(bd73a1e0-8ab2-4b9c-aef9-aee8715de979.png)
 
 ## Project Overview
 
